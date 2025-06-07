@@ -75,3 +75,8 @@ def delete_post(request, post_id):
 
 
 
+def sample_view():
+    pass
+
+
+
